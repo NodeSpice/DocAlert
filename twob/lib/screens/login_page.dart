@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:twob/components/auth_state.dart';
+import 'package:twob/services/auth_state.dart';
 import 'package:supabase/supabase.dart';
-import 'package:twob/utils/constants.dart';
+import 'package:twob/utilities/constants.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({Key? key}) : super(key: key);

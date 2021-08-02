@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:twob/components/auth_required_state.dart';
-import 'package:twob/utils/constants.dart';
+import 'package:twob/services/auth_required_state.dart';
+import 'package:twob/utilities/constants.dart';
 import 'package:supabase/supabase.dart';
 
 class AccountPage extends StatefulWidget {

@@ -32,6 +32,9 @@ dependencies:
   #Newly added by: Julian
   # postgreSQL Database api
   supabase_flutter: ^0.0.6
+  get_it: ^7.2.0
+  shared_preferences: ^2.0.6
+  supabase: ^0.0.7
 
 dev_dependencies:
   flutter_test:
